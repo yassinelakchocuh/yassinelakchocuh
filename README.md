@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yassinelakchocuh
+- 👋 Hi, I’m @yassinelakchouch
 - 👀 I’m interested in Anything related with web
 - 🌱 I’m currently learning Mern Stack
 - 💞️ I’m looking to collaborate on ...
